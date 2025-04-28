@@ -1077,6 +1077,7 @@ audio {
 
 .balloons {
 	position: fixed;
+	left: 70%;
 	bottom: -200px;
 	opacity: 0.6;
 	z-index: 99;
@@ -1088,7 +1089,7 @@ audio {
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 50px;
+	font-size: 30px;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
